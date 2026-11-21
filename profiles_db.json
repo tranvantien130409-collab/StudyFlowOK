@@ -1,0 +1,3908 @@
+{
+  "student": {
+    "name": "Trần Văn Tiến",
+    "className": "12A1",
+    "schoolName": "THPT Nguyễn Văn Trỗi",
+    "avatar": "data:image/jpeg;base64,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",
+    "subjects": [
+      {
+        "name": "Toán học",
+        "currentScore": 8.5,
+        "targetScore": 9.5
+      },
+      {
+        "name": "Vật lí",
+        "currentScore": 7.2,
+        "targetScore": 9
+      },
+      {
+        "name": "Hóa học",
+        "currentScore": 8,
+        "targetScore": 9
+      },
+      {
+        "name": "Tiếng Anh",
+        "currentScore": 9.2,
+        "targetScore": 9.5
+      },
+      {
+        "name": "Ngữ văn",
+        "currentScore": 7.5,
+        "targetScore": 8.5
+      }
+    ],
+    "avatarUpdatedAt": 1794922224224
+  },
+  "teacher": {
+    "name": "Thầy Tuấn",
+    "username": "giaovien",
+    "backupCode": "giaovien",
+    "subject": "Toán",
+    "password": "123456",
+    "avatar": "data:image/jpeg;base64,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",
+    "avatarUpdatedAt": 1794922210179
+  },
+  "teacherClasses": [
+    {
+      "id": "class_1",
+      "number": 1,
+      "name": "Toán 10A3",
+      "subject": "Toán",
+      "grade": 10,
+      "studentsCount": 45,
+      "lessonsCount": 14,
+      "examsCount": 3,
+      "avgScore": 7.6,
+      "room": "Phòng 204",
+      "schedule": "Thứ 2, Thứ 4 (Tiết 1-2)",
+      "students": [
+        {
+          "id": "10a3_s1",
+          "name": "Huỳnh Văn Quốc Anh",
+          "rollNumber": "10A3-01",
+          "avgScore": 6.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s2",
+          "name": "Lương Văn Anh",
+          "rollNumber": "10A3-02",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s3",
+          "name": "Nguyễn Đình Anh",
+          "rollNumber": "10A3-03",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s4",
+          "name": "Nguyễn Đức Bảo",
+          "rollNumber": "10A3-04",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s5",
+          "name": "Nguyễn Thị Thanh Chúc",
+          "rollNumber": "10A3-05",
+          "avgScore": 8.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s6",
+          "name": "Nguyễn Thị Hoàng Dung",
+          "rollNumber": "10A3-06",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s7",
+          "name": "Nguyễn Anh Duy",
+          "rollNumber": "10A3-07",
+          "avgScore": 8,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s8",
+          "name": "Nguyễn Thùy Duyên",
+          "rollNumber": "10A3-08",
+          "avgScore": 8.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s9",
+          "name": "Phạm Hồ Thùy Dương",
+          "rollNumber": "10A3-09",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s10",
+          "name": "Trần Bảo Hân",
+          "rollNumber": "10A3-10",
+          "avgScore": 8,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s11",
+          "name": "Hồ Việt Hoàng",
+          "rollNumber": "10A3-11",
+          "avgScore": 6.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s12",
+          "name": "Bùi Ngọc Gia Huy",
+          "rollNumber": "10A3-12",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 9,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s13",
+          "name": "Nguyễn Quốc Hưng",
+          "rollNumber": "10A3-13",
+          "avgScore": 8,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s14",
+          "name": "Nguyễn Hữu Khang",
+          "rollNumber": "10A3-14",
+          "avgScore": 9.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s15",
+          "name": "Nguyễn Minh Vĩnh Khang",
+          "rollNumber": "10A3-15",
+          "avgScore": 6.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s16",
+          "name": "Dương Tuấn Khôi",
+          "rollNumber": "10A3-16",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s17",
+          "name": "Đặng Phạm Cẩm Linh",
+          "rollNumber": "10A3-17",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s18",
+          "name": "Nguyễn Thùy Linh",
+          "rollNumber": "10A3-18",
+          "avgScore": 8.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s19",
+          "name": "Nguyễn Hồng Phi Long",
+          "rollNumber": "10A3-19",
+          "avgScore": 9,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s20",
+          "name": "Nguyễn Thị Kiều My",
+          "rollNumber": "10A3-20",
+          "avgScore": 8,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s21",
+          "name": "Phạm Ngọc Nam",
+          "rollNumber": "10A3-21",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 9,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s22",
+          "name": "Hồ Phương Mỹ Ngọc",
+          "rollNumber": "10A3-22",
+          "avgScore": 9,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s23",
+          "name": "Nguyễn Thiện Nhân",
+          "rollNumber": "10A3-23",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s24",
+          "name": "Trần Nguyễn Hiền Nhân",
+          "rollNumber": "10A3-24",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s25",
+          "name": "Nguyễn Ngọc Bảo Như",
+          "rollNumber": "10A3-25",
+          "avgScore": 8,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s26",
+          "name": "Nguyễn Vũ Phong",
+          "rollNumber": "10A3-26",
+          "avgScore": 6.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s27",
+          "name": "Nguyễn Đắc Thiên Phú",
+          "rollNumber": "10A3-27",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s28",
+          "name": "Trần Trung Phúc",
+          "rollNumber": "10A3-28",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s29",
+          "name": "Trần Thị Lệ Quyên",
+          "rollNumber": "10A3-29",
+          "avgScore": 9.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s30",
+          "name": "Lâm Thanh Gia Quỳnh",
+          "rollNumber": "10A3-30",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s31",
+          "name": "Lê Chí Tân",
+          "rollNumber": "10A3-31",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s32",
+          "name": "Bùi Thị Bảo Thi",
+          "rollNumber": "10A3-32",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s33",
+          "name": "Nguyễn Văn Thiện",
+          "rollNumber": "10A3-33",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s34",
+          "name": "Nguyễn Ánh Anh Thư",
+          "rollNumber": "10A3-34",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s35",
+          "name": "Nguyễn Trần Anh Thư",
+          "rollNumber": "10A3-35",
+          "avgScore": 8,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": null,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s36",
+          "name": "Nguyễn Sinh Thương",
+          "rollNumber": "10A3-36",
+          "avgScore": 6.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s37",
+          "name": "Đặng Nguyễn Thủy Tiên",
+          "rollNumber": "10A3-37",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s38",
+          "name": "Phạm Ngọc Tiền",
+          "rollNumber": "10A3-38",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s39",
+          "name": "Nguyễn Thị Quỳnh Trâm",
+          "rollNumber": "10A3-39",
+          "avgScore": 8.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s40",
+          "name": "Nguyễn Mạnh Trí",
+          "rollNumber": "10A3-40",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s41",
+          "name": "Bùi Nguyễn Thanh Trúc",
+          "rollNumber": "10A3-41",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s42",
+          "name": "Lương Anh Tú",
+          "rollNumber": "10A3-42",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null,
+            "comment": "quá tệ"
+          }
+        },
+        {
+          "id": "10a3_s43",
+          "name": "Mạc Thị Ánh Tuyết",
+          "rollNumber": "10A3-43",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s44",
+          "name": "Phan Phương Uyên",
+          "rollNumber": "10A3-44",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a3_s45",
+          "name": "Lê Thị Như Ý",
+          "rollNumber": "10A3-45",
+          "avgScore": 8,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null,
+            "comment": "quá tệ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "class_2",
+      "number": 2,
+      "name": "Toán 10A4",
+      "subject": "Toán",
+      "grade": 10,
+      "studentsCount": 45,
+      "lessonsCount": 12,
+      "examsCount": 3,
+      "avgScore": 7,
+      "room": "Phòng 305",
+      "schedule": "Thứ 3, Thứ 6 (Tiết 3-4)",
+      "students": [
+        {
+          "id": "10a4_s1",
+          "name": "Phạm Trường An",
+          "rollNumber": "10A4-01",
+          "avgScore": 8.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s2",
+          "name": "Lê Văn Tuấn Anh",
+          "rollNumber": "10A4-02",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s3",
+          "name": "Ngô Trần Hồng Anh",
+          "rollNumber": "10A4-03",
+          "avgScore": 6,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 2,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s4",
+          "name": "Phạm Thị Kỳ Duyên",
+          "rollNumber": "10A4-04",
+          "avgScore": 0,
+          "completedTasks": 0,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": null,
+            "tx2": null,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s5",
+          "name": "Nguyễn Khánh Đan",
+          "rollNumber": "10A4-05",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s6",
+          "name": "Trần Phạm Bảo Đan",
+          "rollNumber": "10A4-06",
+          "avgScore": 9.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": null,
+            "tx3": null,
+            "tx4": 10,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s7",
+          "name": "Nguyễn Anh Đức",
+          "rollNumber": "10A4-07",
+          "avgScore": 6.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s8",
+          "name": "Huỳnh Ngọc Hải",
+          "rollNumber": "10A4-08",
+          "avgScore": 5,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 2,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s9",
+          "name": "Lê Thị Minh Hằng",
+          "rollNumber": "10A4-09",
+          "avgScore": 4.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 6,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": 2,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s10",
+          "name": "Nguyễn Quỳnh Hoa",
+          "rollNumber": "10A4-10",
+          "avgScore": 5.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s11",
+          "name": "Lê Đức Khang",
+          "rollNumber": "10A4-11",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s12",
+          "name": "Trần Phú Khang",
+          "rollNumber": "10A4-12",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s13",
+          "name": "Võ Anh Khôi",
+          "rollNumber": "10A4-13",
+          "avgScore": 7.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": null,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s14",
+          "name": "Lê Hà Kiều Linh",
+          "rollNumber": "10A4-14",
+          "avgScore": 5,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s15",
+          "name": "Đặng Lê Tiến Long",
+          "rollNumber": "10A4-15",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s16",
+          "name": "Trần Hữu Lộc",
+          "rollNumber": "10A4-16",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 9,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s17",
+          "name": "Võ Tấn Lộc",
+          "rollNumber": "10A4-17",
+          "avgScore": 5.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s18",
+          "name": "Đặng Thị Bích Ngọc",
+          "rollNumber": "10A4-18",
+          "avgScore": 8.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s19",
+          "name": "Lê Văn Hạnh Nhân",
+          "rollNumber": "10A4-19",
+          "avgScore": 8,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 6,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s20",
+          "name": "Đỗ Nguyễn Phương Nhi",
+          "rollNumber": "10A4-20",
+          "avgScore": 6,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s21",
+          "name": "Hoàng Thị Yến Nhi",
+          "rollNumber": "10A4-21",
+          "avgScore": 8.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s22",
+          "name": "Nguyễn Thị Kiều Như",
+          "rollNumber": "10A4-22",
+          "avgScore": 8,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s23",
+          "name": "Trần Ngọc Oai",
+          "rollNumber": "10A4-23",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s24",
+          "name": "Nguyễn Hoàng Phúc",
+          "rollNumber": "10A4-24",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s25",
+          "name": "Lê Nguyễn Hoàng Quân",
+          "rollNumber": "10A4-25",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s26",
+          "name": "Nguyễn Đình Quân",
+          "rollNumber": "10A4-26",
+          "avgScore": 5.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s27",
+          "name": "Lê Ngọc Khánh Quỳnh",
+          "rollNumber": "10A4-27",
+          "avgScore": 9,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s28",
+          "name": "Nguyễn Hữu Tài",
+          "rollNumber": "10A4-28",
+          "avgScore": 8.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s29",
+          "name": "Võ Tấn Tài",
+          "rollNumber": "10A4-29",
+          "avgScore": 6,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s30",
+          "name": "Đặng Cao Minh Thiện",
+          "rollNumber": "10A4-30",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s31",
+          "name": "Nguyễn Ngọc Đức Thiện",
+          "rollNumber": "10A4-31",
+          "avgScore": 10,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 10,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s32",
+          "name": "Nguyễn Mậu Minh Thông",
+          "rollNumber": "10A4-32",
+          "avgScore": 6,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s33",
+          "name": "Nguyễn Vũ Hoàng Thuyết",
+          "rollNumber": "10A4-33",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s34",
+          "name": "Hồ Văn Tịnh",
+          "rollNumber": "10A4-34",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s35",
+          "name": "Trần Vy Quỳnh Trâm",
+          "rollNumber": "10A4-35",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 10,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s36",
+          "name": "Lê Thị Trân",
+          "rollNumber": "10A4-36",
+          "avgScore": 3.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 2,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 2,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s37",
+          "name": "Bùi Trần Trọng Trí",
+          "rollNumber": "10A4-37",
+          "avgScore": 6,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s38",
+          "name": "Nguyễn Tấn Trường",
+          "rollNumber": "10A4-38",
+          "avgScore": 6,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 2,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 10,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s39",
+          "name": "Phan Nguyễn Minh Trường",
+          "rollNumber": "10A4-39",
+          "avgScore": 4.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 2,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s40",
+          "name": "Đặng Nguyễn Tường Vy",
+          "rollNumber": "10A4-40",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s41",
+          "name": "Đinh Yến Vy",
+          "rollNumber": "10A4-41",
+          "avgScore": 9.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 10,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s42",
+          "name": "Nguyễn Ngọc Tường Vy",
+          "rollNumber": "10A4-42",
+          "avgScore": 9.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s43",
+          "name": "Nguyễn Thị Ngọc Vy",
+          "rollNumber": "10A4-43",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s44",
+          "name": "Trần Ngọc Như Ý",
+          "rollNumber": "10A4-44",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 7,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10a4_s45",
+          "name": "Nguyễn Thị Hoàng Yến",
+          "rollNumber": "10A4-45",
+          "avgScore": 9.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "class_3",
+      "number": 3,
+      "name": "Toán 10C3",
+      "subject": "Toán",
+      "grade": 10,
+      "studentsCount": 44,
+      "lessonsCount": 20,
+      "examsCount": 3,
+      "avgScore": 5.9,
+      "room": "Phòng Đa năng A",
+      "schedule": "Thứ 5, Thứ 7 (Tiết 1-3)",
+      "students": [
+        {
+          "id": "10c3_s1",
+          "name": "Bùi Ngọc Hoài An",
+          "rollNumber": "10C3-01",
+          "avgScore": 4.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 5,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s2",
+          "name": "K' Phan Kim Anh",
+          "rollNumber": "10C3-02",
+          "avgScore": 5,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": null,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s3",
+          "name": "Nguyễn Ngọc Tú Anh",
+          "rollNumber": "10C3-03",
+          "avgScore": 6.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s4",
+          "name": "Lê Hữu Bảo",
+          "rollNumber": "10C3-04",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s5",
+          "name": "Nguyễn Đỗ Gia Bảo",
+          "rollNumber": "10C3-05",
+          "avgScore": 4.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 3,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s6",
+          "name": "Vương Nhật Mỹ Châu",
+          "rollNumber": "10C3-06",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s7",
+          "name": "K Dãi",
+          "rollNumber": "10C3-07",
+          "avgScore": 4.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 5,
+            "tx2": 4,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s8",
+          "name": "Bùi Thị Ngọc Duyên",
+          "rollNumber": "10C3-08",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 10,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s9",
+          "name": "Dành Thanh Dược",
+          "rollNumber": "10C3-09",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 5,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s10",
+          "name": "Võ Văn Hào",
+          "rollNumber": "10C3-10",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 9,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 5,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s11",
+          "name": "Nguyễn Hoàng Hậu",
+          "rollNumber": "10C3-11",
+          "avgScore": 5.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 3,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s12",
+          "name": "Trần Kế Hiểu",
+          "rollNumber": "10C3-12",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": null,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s13",
+          "name": "Nguyễn Như Huy",
+          "rollNumber": "10C3-13",
+          "avgScore": 6,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s14",
+          "name": "Giòng Thanh Huyền",
+          "rollNumber": "10C3-14",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 10,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 5,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s15",
+          "name": "Lê Văn Khang",
+          "rollNumber": "10C3-15",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s16",
+          "name": "Phó Duy Khang",
+          "rollNumber": "10C3-16",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 5,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s17",
+          "name": "Phan Đăng Khôi",
+          "rollNumber": "10C3-17",
+          "avgScore": 4.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 6,
+            "tx2": null,
+            "tx3": null,
+            "tx4": 3,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s18",
+          "name": "Nguyễn Hoàng Khương",
+          "rollNumber": "10C3-18",
+          "avgScore": 4.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 6,
+            "tx2": 4,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s19",
+          "name": "Nguyễn Thùy Linh",
+          "rollNumber": "10C3-19",
+          "avgScore": 9.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 9,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s20",
+          "name": "Nguyễn Thị Cẩm Ly",
+          "rollNumber": "10C3-20",
+          "avgScore": 5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 3,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s21",
+          "name": "Trần Xuân Minh",
+          "rollNumber": "10C3-21",
+          "avgScore": 3.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 5,
+            "tx2": 2,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s22",
+          "name": "Trần Trà My",
+          "rollNumber": "10C3-22",
+          "avgScore": 6,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s23",
+          "name": "Trương Minh Kỳ Nam",
+          "rollNumber": "10C3-23",
+          "avgScore": 7.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 8,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s24",
+          "name": "Ngô Thị Bích Ngọc",
+          "rollNumber": "10C3-24",
+          "avgScore": 7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 5,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s25",
+          "name": "Lê Văn Nhân",
+          "rollNumber": "10C3-25",
+          "avgScore": 5.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s26",
+          "name": "Phạm Hoàng Yến Nhi",
+          "rollNumber": "10C3-26",
+          "avgScore": 3,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 3,
+            "tx2": null,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s27",
+          "name": "Nguyễn Quỳnh Như",
+          "rollNumber": "10C3-27",
+          "avgScore": 6.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s28",
+          "name": "Vũ Thành Phát",
+          "rollNumber": "10C3-28",
+          "avgScore": 4,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 6,
+            "tx2": 2,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s29",
+          "name": "Nguyễn Thị Ánh Phúc",
+          "rollNumber": "10C3-29",
+          "avgScore": 5,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": 3,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s30",
+          "name": "Đặng Hữu Nhật Quân",
+          "rollNumber": "10C3-30",
+          "avgScore": 5,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 3,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s31",
+          "name": "Nguyễn Văn Quý",
+          "rollNumber": "10C3-31",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s32",
+          "name": "Bờ Đam Thị Quyên",
+          "rollNumber": "10C3-32",
+          "avgScore": 5.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s33",
+          "name": "Nguyễn Lê Kim My Sun",
+          "rollNumber": "10C3-33",
+          "avgScore": 3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 3,
+            "tx2": 2,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s34",
+          "name": "Nguyễn Phương Thảo",
+          "rollNumber": "10C3-34",
+          "avgScore": 7.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 10,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": 3,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s35",
+          "name": "Nguyễn Thị Minh Thuận",
+          "rollNumber": "10C3-35",
+          "avgScore": 4.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 5,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": 3,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s36",
+          "name": "Phan Thị Kim Thư",
+          "rollNumber": "10C3-36",
+          "avgScore": 5,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": null,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s37",
+          "name": "Nguyễn Thị Hoài Thương",
+          "rollNumber": "10C3-37",
+          "avgScore": 10,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 10,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s38",
+          "name": "Lê Ý Cẩm Tiên",
+          "rollNumber": "10C3-38",
+          "avgScore": 5.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 3,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s39",
+          "name": "Bùi Huy Minh Tiến",
+          "rollNumber": "10C3-39",
+          "avgScore": 8.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": 5,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s40",
+          "name": "Nguyễn Thị Ngọc Trinh",
+          "rollNumber": "10C3-40",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": null,
+            "tx3": null,
+            "tx4": 6,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s41",
+          "name": "Lê Thị Ngọc Trúc",
+          "rollNumber": "10C3-41",
+          "avgScore": 5.3,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": 5,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s42",
+          "name": "K Lê Anh Tú",
+          "rollNumber": "10C3-42",
+          "avgScore": 4.7,
+          "completedTasks": 3,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 7,
+            "tx2": 3,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s43",
+          "name": "Phan Thanh Trường Vũ",
+          "rollNumber": "10C3-43",
+          "avgScore": 0,
+          "completedTasks": 0,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": null,
+            "tx2": null,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "10c3_s44",
+          "name": "Phạm Hoàng Yến",
+          "rollNumber": "10C3-44",
+          "avgScore": 5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": null,
+            "tx3": null,
+            "tx4": 4,
+            "gk": null,
+            "ck": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "class_4",
+      "number": 4,
+      "name": "Toán 12A4",
+      "subject": "Toán",
+      "grade": 12,
+      "studentsCount": 40,
+      "lessonsCount": 18,
+      "examsCount": 2,
+      "avgScore": 7.8,
+      "room": "Phòng Đa năng B",
+      "schedule": "Thứ 4, Chủ Nhật (Tiết 4-6)",
+      "students": [
+        {
+          "id": "12a4_s1",
+          "name": "Nguyễn Quỳnh Anh",
+          "rollNumber": "12A4-01",
+          "avgScore": 8.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s2",
+          "name": "Nguyễn Thị Ngọc Ánh",
+          "rollNumber": "12A4-02",
+          "avgScore": 9,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s3",
+          "name": "Nguyễn Duy Bảo",
+          "rollNumber": "12A4-03",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 9,
+            "tx2": 3,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s4",
+          "name": "Lê Thanh Bin",
+          "rollNumber": "12A4-04",
+          "avgScore": 4.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 7,
+            "tx2": 2,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s5",
+          "name": "Trương Thị Mỹ Duyên",
+          "rollNumber": "12A4-05",
+          "avgScore": 8,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": null,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s6",
+          "name": "Bùi Thanh Đạt",
+          "rollNumber": "12A4-06",
+          "avgScore": 8,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": null,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s7",
+          "name": "Vũ Cao Đạt",
+          "rollNumber": "12A4-07",
+          "avgScore": 9,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": null,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s8",
+          "name": "Trần Minh Đăng",
+          "rollNumber": "12A4-08",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 9,
+            "tx2": 3,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s9",
+          "name": "Trần Minh Đức",
+          "rollNumber": "12A4-09",
+          "avgScore": 9,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": null,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s10",
+          "name": "Trần Ngọc Thúy Hiền",
+          "rollNumber": "12A4-10",
+          "avgScore": 8.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s11",
+          "name": "Nguyễn Trung Hiệu",
+          "rollNumber": "12A4-11",
+          "avgScore": 9,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s12",
+          "name": "Trịnh Gia Huy",
+          "rollNumber": "12A4-12",
+          "avgScore": 9,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s13",
+          "name": "Lê Thanh Hưng",
+          "rollNumber": "12A4-13",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s14",
+          "name": "Nguyễn Thị Thu Hương",
+          "rollNumber": "12A4-14",
+          "avgScore": 8,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": null,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s15",
+          "name": "Trịnh Tuấn Khang",
+          "rollNumber": "12A4-15",
+          "avgScore": 8.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s16",
+          "name": "Lương Thế Kiệt",
+          "rollNumber": "12A4-16",
+          "avgScore": 7.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s17",
+          "name": "Bùi Nguyễn Hoàng Long",
+          "rollNumber": "12A4-17",
+          "avgScore": 8.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s18",
+          "name": "Ngô Long",
+          "rollNumber": "12A4-18",
+          "avgScore": 9.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s19",
+          "name": "Nguyễn Thị Thảo My",
+          "rollNumber": "12A4-19",
+          "avgScore": 8,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s20",
+          "name": "Phan Thị Hoàng My",
+          "rollNumber": "12A4-20",
+          "avgScore": 10,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s21",
+          "name": "Trương Thị Bích Ngân",
+          "rollNumber": "12A4-21",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s22",
+          "name": "Nguyễn Thị Thảo Nguyên",
+          "rollNumber": "12A4-22",
+          "avgScore": 10,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s23",
+          "name": "Đỗ Hân Nhi",
+          "rollNumber": "12A4-23",
+          "avgScore": 7,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s24",
+          "name": "Lê Hoàng Uyển Nhi",
+          "rollNumber": "12A4-24",
+          "avgScore": 7,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": null,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s25",
+          "name": "Nguyễn Thị Ngọc Nhi",
+          "rollNumber": "12A4-25",
+          "avgScore": 7,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": null,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s26",
+          "name": "Lương Võ Song Nhiên",
+          "rollNumber": "12A4-26",
+          "avgScore": 9,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s27",
+          "name": "Phan Thị Quỳnh Như",
+          "rollNumber": "12A4-27",
+          "avgScore": 7,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": null,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s28",
+          "name": "Lê Thị Hoàng Oanh",
+          "rollNumber": "12A4-28",
+          "avgScore": 7,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s29",
+          "name": "Lê Quang Phát",
+          "rollNumber": "12A4-29",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s30",
+          "name": "Võ Văn Anh Phú",
+          "rollNumber": "12A4-30",
+          "avgScore": 8.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s31",
+          "name": "Trần Nguyễn Hồng Phúc",
+          "rollNumber": "12A4-31",
+          "avgScore": 7.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s32",
+          "name": "Nguyễn Đình Minh Thông",
+          "rollNumber": "12A4-32",
+          "avgScore": 5.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s33",
+          "name": "Nguyễn Thị Bảo Trâm",
+          "rollNumber": "12A4-33",
+          "avgScore": 8,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": null,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s34",
+          "name": "Lê Sỹ Việt",
+          "rollNumber": "12A4-34",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 5,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s35",
+          "name": "Tiêu Đình Vũ",
+          "rollNumber": "12A4-35",
+          "avgScore": 8.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s36",
+          "name": "Trần Huy Vũ",
+          "rollNumber": "12A4-36",
+          "avgScore": 8,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s37",
+          "name": "Phạm Quang Vương",
+          "rollNumber": "12A4-37",
+          "avgScore": 8,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s38",
+          "name": "Lê Phạm Tường Vy",
+          "rollNumber": "12A4-38",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12a4_s39",
+          "name": "Nguyễn Đỗ Tường Vy",
+          "rollNumber": "12A4-39",
+          "avgScore": 7,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": null,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "s_1794922531191",
+          "name": "Trần Văn Tiến",
+          "rollNumber": "12A1-40",
+          "avgScore": 9.5,
+          "completedTasks": 2,
+          "totalTasks": 5,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null,
+            "comment": "Tốt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "class_5",
+      "number": 5,
+      "name": "Toán 12C2",
+      "subject": "Toán",
+      "grade": 12,
+      "studentsCount": 40,
+      "lessonsCount": 10,
+      "examsCount": 2,
+      "avgScore": 7,
+      "room": "Lab 1",
+      "schedule": "Thứ 2 (Tiết 3-5)",
+      "students": [
+        {
+          "id": "12c2_s1",
+          "name": "Phạm Quỳnh Anh",
+          "rollNumber": "12C2-01",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s2",
+          "name": "Trương Anh",
+          "rollNumber": "12C2-02",
+          "avgScore": 8.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s3",
+          "name": "Nguyễn Hồng Ân",
+          "rollNumber": "12C2-03",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s4",
+          "name": "Trần Thành Tâm Bảo",
+          "rollNumber": "12C2-04",
+          "avgScore": 8,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s5",
+          "name": "Nguyễn Ngọc Bảo Châu",
+          "rollNumber": "12C2-05",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s6",
+          "name": "Nguyễn Văn Danh",
+          "rollNumber": "12C2-06",
+          "avgScore": 5.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s7",
+          "name": "Hoàng Phi Đạt",
+          "rollNumber": "12C2-07",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s8",
+          "name": "Lê Văn Đạt",
+          "rollNumber": "12C2-08",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s9",
+          "name": "Võ Đại Giang",
+          "rollNumber": "12C2-09",
+          "avgScore": 9,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s10",
+          "name": "Hồ Huỳnh Công Hải",
+          "rollNumber": "12C2-10",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s11",
+          "name": "Cáp Hữu Hậu",
+          "rollNumber": "12C2-11",
+          "avgScore": 7.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s12",
+          "name": "Phạm Đinh Dịu Hiền",
+          "rollNumber": "12C2-12",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s13",
+          "name": "Trần Thị Mỹ Huyền",
+          "rollNumber": "12C2-13",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s14",
+          "name": "Trương Thị Mộng Kiều",
+          "rollNumber": "12C2-14",
+          "avgScore": 9.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s15",
+          "name": "Nguyễn Gia Linh",
+          "rollNumber": "12C2-15",
+          "avgScore": 10,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s16",
+          "name": "Nguyễn Hoàng Luân",
+          "rollNumber": "12C2-16",
+          "avgScore": 7,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": null,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s17",
+          "name": "Đỗ Thị Ngọc Ly",
+          "rollNumber": "12C2-17",
+          "avgScore": 7.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s18",
+          "name": "Khổng Diệu Ngân",
+          "rollNumber": "12C2-18",
+          "avgScore": 5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s19",
+          "name": "Đặng Ngọc Nghĩa",
+          "rollNumber": "12C2-19",
+          "avgScore": 10,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s20",
+          "name": "Lường Khánh Ngọc",
+          "rollNumber": "12C2-20",
+          "avgScore": 6,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s21",
+          "name": "Nguyễn Thị Mỹ Ngọc",
+          "rollNumber": "12C2-21",
+          "avgScore": 10,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 10,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s22",
+          "name": "Lâm Gia Như",
+          "rollNumber": "12C2-22",
+          "avgScore": 7,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s23",
+          "name": "Ngô Thị Quỳnh Như",
+          "rollNumber": "12C2-23",
+          "avgScore": 5.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s24",
+          "name": "Lê Minh Quân",
+          "rollNumber": "12C2-24",
+          "avgScore": 7,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s25",
+          "name": "Phan Anh Quốc",
+          "rollNumber": "12C2-25",
+          "avgScore": 4.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 3,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s26",
+          "name": "Phạm Thị Hồng Thắm",
+          "rollNumber": "12C2-26",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 6,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s27",
+          "name": "Cao Hữu Thắng",
+          "rollNumber": "12C2-27",
+          "avgScore": 7,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": null,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s28",
+          "name": "Nguyễn Minh Thắng",
+          "rollNumber": "12C2-28",
+          "avgScore": 6.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 5,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s29",
+          "name": "Trần Thị Kim Thuyên",
+          "rollNumber": "12C2-29",
+          "avgScore": 4.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "needs_attention",
+          "scores": {
+            "tx1": 3,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s30",
+          "name": "Nguyễn Thị Hoài Thương",
+          "rollNumber": "12C2-30",
+          "avgScore": 5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 2,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s31",
+          "name": "Lê Thu Trang",
+          "rollNumber": "12C2-31",
+          "avgScore": 5.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 4,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s32",
+          "name": "Hoàng Nguyễn Thùy Trâm",
+          "rollNumber": "12C2-32",
+          "avgScore": 5.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 2,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s33",
+          "name": "Huỳnh Thị Bích Trâm",
+          "rollNumber": "12C2-33",
+          "avgScore": 7.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s34",
+          "name": "Phạm Đình Trí",
+          "rollNumber": "12C2-34",
+          "avgScore": 9,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 8,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s35",
+          "name": "Nguyễn Xuân Triết",
+          "rollNumber": "12C2-35",
+          "avgScore": 8,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 7,
+            "tx2": 9,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s36",
+          "name": "Nguyễn Thị Thanh Trúc",
+          "rollNumber": "12C2-36",
+          "avgScore": 8.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 8,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s37",
+          "name": "Đỗ Mạnh Tú",
+          "rollNumber": "12C2-37",
+          "avgScore": 7,
+          "completedTasks": 1,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": null,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s38",
+          "name": "Phạm Anh Tuấn",
+          "rollNumber": "12C2-38",
+          "avgScore": 9.5,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "good",
+          "scores": {
+            "tx1": 9,
+            "tx2": 10,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s39",
+          "name": "Phạm Thị Ngọc Tuyền",
+          "rollNumber": "12C2-39",
+          "avgScore": 7,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 7,
+            "tx2": 7,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        },
+        {
+          "id": "12c2_s40",
+          "name": "Nguyễn Xuân Vỹ",
+          "rollNumber": "12C2-40",
+          "avgScore": 7,
+          "completedTasks": 2,
+          "totalTasks": 4,
+          "status": "average",
+          "scores": {
+            "tx1": 8,
+            "tx2": 6,
+            "tx3": null,
+            "tx4": null,
+            "gk": null,
+            "ck": null
+          }
+        }
+      ]
+    }
+  ],
+  "library": [
+    {
+      "id": 1,
+      "t": "Tổng hợp công thức Đại số 10",
+      "sub": "Toán",
+      "type": "Ghi chú",
+      "d": "Hằng đẳng thức, phương trình bậc hai, hệ thức Vi-ét và các dạng bài thường gặp.",
+      "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_s%E1%BB%91",
+      "fileType": "text",
+      "fileContent": "# TỔNG HỢP CÔNG THỨC ĐẠI SỐ 10\n\n## 1. 7 Hằng đẳng thức đáng nhớ:\n1. (a + b)² = a² + 2ab + b²\n2. (a - b)² = a² - 2ab + b²\n3. a² - b² = (a - b)(a + b)\n4. (a + b)³ = a³ + 3a²b + 3ab² + b³\n5. (a - b)³ = a³ - 3a²b + 3ab² - b³\n6. a³ + b³ = (a + b)(a² - ab + b²)\n7. a³ - b³ = (a - b)(a² + ab + b²)\n\n## 2. Phương trình bậc hai: ax² + bx + c = 0 (a ≠ 0)\n- Biệt thức Delta: Δ = b² - 4ac\n  - Nếu Δ > 0: Phương trình có 2 nghiệm phân biệt: x₁,₂ = (-b ± √Δ) / (2a)\n  - Nếu Δ = 0: Phương trình có nghiệm kép: x = -b / (2a)\n  - Nếu Δ < 0: Phương trình vô nghiệm trên tập số thực ℝ\n\n## 3. Hệ thức Vi-ét:\n- Tổng hai nghiệm: S = x₁ + x₂ = -b / a\n- Tích hai nghiệm: P = x₁ · x₂ = c / a\n\n*Lưu ý: Luôn kiểm tra điều kiện xác định trước khi giải phương trình.*",
+      "fav": true
+    },
+    {
+      "id": 2,
+      "t": "Bảng tuần hoàn và hóa trị các nguyên tố",
+      "sub": "Hóa học",
+      "type": "Tài liệu",
+      "d": "Bảng tuần hoàn rút gọn kèm hóa trị thường gặp của các nguyên tố kim loại & phi kim.",
+      "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A3ng_tu%E1%BA%A7n_ho%C3%A0n",
+      "fileType": "text",
+      "fileContent": "# BẢNG HÓA TRỊ CÁC NGUYÊN TỐ THƯỜNG GẶP\n\n## Bài ca Hóa Trị:\nKali (K), Iot (I), Hidro (H)\nNatri (Na) với Bạc (Ag), Clo (Cl) một loài\nLà hóa trị I bạn ơi\nNhớ ghi cho rõ kẻo rồi phân vân!\n\nMagiê (Mg), Kẽm (Zn) với Thủy ngân (Hg)\nOxi (O), Đồng (Cu), Thiếc (Sn) thêm phần Bari (Ba)\nCuối cùng thêm chú Canxi (Ca)\nHóa trị II nhớ có gì khó khăn!\n\nNhôm (Al) hóa trị III lần\nIn sâu trí óc khi cần có ngay\nCacbon (C), Silic (Si) này đây\nLà hóa trị IV không ngày nào quên!\n\nSắt (Fe) lắm lúc phiền hà\nKhi thì hai (II), lúc lại ba (III) mới tài!",
+      "fav": false
+    },
+    {
+      "id": 3,
+      "t": "Định luật Newton: tóm tắt & ứng dụng",
+      "sub": "Vật lý",
+      "type": "Ghi chú",
+      "d": "Ba định luật Newton, ví dụ minh họa và bài tập vận dụng cơ bản.",
+      "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_lu%E1%BA%ADt_chuy%E1%BB%83n_%C4%91%E1%BB%99ng_c%E1%BB%A7a_Newton",
+      "fileType": "text",
+      "fileContent": "# BA ĐỊNH LUẬT NEWTON VỀ CHUYỂN ĐỘNG\n\n## 1. Định luật I Newton (Quán tính):\nNếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không, thì vật đang đứng yên sẽ tiếp tục đứng yên, vật đang chuyển động sẽ tiếp tục chuyển động thẳng đều.\n\n## 2. Định luật II Newton:\nGia tốc của một vật cùng hướng với lực tác dụng lên vật. Độ lớn của gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật:\n👉 **F = m · a**  (hay a = F / m)\n\n## 3. Định luật III Newton (Tương tác):\nTrong mọi trường hợp, khi vật A tác dụng lên vật B một lực, thì vật B cũng tác dụng lại vật A một lực. Hai lực này là hai lực trực đối: cùng giá, cùng độ lớn nhưng ngược chiều:\n👉 **F_AB = -F_BA**",
+      "fav": false
+    },
+    {
+      "id": 4,
+      "t": "Cấu trúc câu điều kiện (Conditional Sentences)",
+      "sub": "Tiếng Anh",
+      "type": "Ghi chú",
+      "d": "Câu điều kiện loại 0, 1, 2, 3 với công thức và ví dụ sinh động.",
+      "url": "",
+      "fileType": "text",
+      "fileContent": "# CONDITIONAL SENTENCES (CÂU ĐIỀU KIỆN)\n\n### Type 0: Chân lý, sự thật hiển nhiên\n- Cấu trúc: If + S + V(hiện tại đơn), S + V(hiện tại đơn)\n- Ví dụ: If you heat water to 100 degrees Celsius, it boils.\n\n### Type 1: Có thể xảy ra ở hiện tại hoặc tương lai\n- Cấu trúc: If + S + V(hiện tại đơn), S + will / can + V-infinitive\n- Ví dụ: If you study hard, you will pass the exam with high scores.\n\n### Type 2: Không có thật ở hiện tại (Giả định)\n- Cấu trúc: If + S + V-ed / were, S + would / could + V-infinitive\n- Ví dụ: If I were you, I would take a short break now.\n\n### Type 3: Không có thật trong quá khứ (Tiếc nuối)\n- Cấu trúc: If + S + had + V3/ed, S + would have + V3/ed\n- Ví dụ: If she had prepared earlier, she would have scored 10 points.",
+      "fav": true
+    },
+    {
+      "id": 5,
+      "t": "Dàn ý nghị luận xã hội chuẩn",
+      "sub": "Ngữ văn",
+      "type": "Mẫu bài",
+      "d": "Khung mở bài, thân bài, kết bài và gợi ý lập luận chuẩn cho đề nghị luận.",
+      "url": "",
+      "fileType": "text",
+      "fileContent": "# KHUNG DÀN Ý BÀI VĂN NGHỊ LUẬN XÃ HỘI (200 Chữ / 600 Chữ)\n\n## 1. Mở bài (1-2 câu):\n- Dẫn dắt vấn đề nghị luận (có thể dùng câu trích dẫn hoặc tình huống đời sống).\n- Nêu bật vấn đề tư tưởng đạo lý hoặc hiện tượng đời sống cần bàn luận.\n\n## 2. Thân bài:\n- **Giải thích:** Khái niệm cốt lõi của vấn đề là gì?\n- **Phân tích & Chứng minh:**\n  - Vì sao vấn đề đó lại đúng/quan trọng đối với mỗi cá nhân và xã hội?\n  - Dẫn chứng người thật, việc thật tiêu biểu (ví dụ: Chủ tịch Hồ Chí Minh, Nick Vujicic, các tấm gương học sinh vượt khó...).\n- **Bình luận & Mở rộng (Phản biện):**\n  - Phê phán lối sống ngược lại (thờ ơ, lười biếng, thiếu trách nhiệm).\n- **Bài học nhận thức và hành động:**\n  - Bản thân nhận thức được điều gì? Sẽ hành động cụ thể ra sao ngay hôm nay?\n\n## 3. Kết bài:\n- Khẳng định lại ý nghĩa lâu dài của vấn đề và gửi gắm thông điệp tích cực.",
+      "fav": false
+    },
+    {
+      "id": 6,
+      "t": "Đề cương ôn thi giữa kỳ Sinh học",
+      "sub": "Sinh học",
+      "type": "Đề thi",
+      "d": "Danh sách câu hỏi trọng tâm về tế bào, hô hấp và di truyền.",
+      "url": "",
+      "fileType": "text",
+      "fileContent": "# ĐỀ CƯƠNG TRỌNG TÂM SINH HỌC\n\n## Chuyên đề 1: Tế bào nhân sơ và nhân thực\n- Phân biệt màng sinh chất, tế bào chất, vùng nhân.\n- Cấu trúc ribosome 70S ở vi khuẩn so với 80S ở sinh vật nhân thực.\n\n## Chuyên đề 2: Chuyển hóa vật chất và năng lượng\n- Quang hợp: Pha sáng tại màng thylakoid và pha tối tại chất nền stroma.\n- Hô hấp tế bào: Đường phân -> Chu trình Krebs -> Chuỗi chuyền electron tạo ~36-38 ATP.\n\n## Chuyên đề 3: Phân bào\n- Nguyên phân: Kỳ đầu, kỳ giữa, kỳ sau, kỳ cuối (tạo 2 tế bào con 2n giống hệt nhau).\n- Giảm phân: Tiếp hợp trao đổi chéo tạo biến dị tổ hợp đa dạng ở giao tử.",
+      "fav": false
+    },
+    {
+      "id": 7,
+      "t": "Chuyên đề Hàm số & Đạo hàm Toán 12",
+      "sub": "Toán",
+      "type": "Tài liệu",
+      "d": "Tổng hợp tính đơn điệu, cực trị, GTLN-GTNN, tiệm cận và bảng đạo hàm sơ cấp kèm công cụ vẽ đồ thị Desmos.",
+      "url": "https://www.desmos.com/calculator?lang=vi",
+      "fileType": "text",
+      "fileContent": "# CHUYÊN ĐỀ HÀM SỐ & ĐẠO HÀM TOÁN 12\n\n## 1. Bảng đạo hàm các hàm số sơ cấp & hàm hợp\n- (c)' = 0  (c là hằng số)\n- (xⁿ)' = n·xⁿ⁻¹  |  (uⁿ)' = n·uⁿ⁻¹·u'\n- (√x)' = 1/(2√x)  |  (√u)' = u'/(2√u)\n- (sin x)' = cos x  |  (cos x)' = -sin x\n- (tan x)' = 1/cos²x  |  (cot x)' = -1/sin²x\n- (eˣ)' = eˣ  |  (aˣ)' = aˣ·ln a\n- (ln x)' = 1/x  |  (logₐ x)' = 1/(x·ln a)\n\n## 2. Tính đơn điệu & Cực trị hàm số y = f(x)\n- Hàm số đồng biến trên khoảng K ⇔ f'(x) ≥ 0 ∀x ∈ K (f'(x) = 0 tại hữu hạn điểm).\n- Hàm số nghịch biến trên khoảng K ⇔ f'(x) ≤ 0 ∀x ∈ K.\n- Điểm x₀ là cực đại nếu f'(x) đổi dấu từ (+) sang (-) khi đi qua x₀.\n- Điểm x₀ là cực tiểu nếu f'(x) đổi dấu từ (-) sang (+) khi đi qua x₀.\n\n## 3. Đường tiệm cận đồ thị hàm số\n- Tiệm cận đứng x = x₀: khi lim(x→x₀⁺) f(x) = ±∞ hoặc lim(x→x₀⁻) f(x) = ±∞.\n- Tiệm cận ngang y = y₀: khi lim(x→+∞) f(x) = y₀ hoặc lim(x→-∞) f(x) = y₀.\n\n🔗 **Thực hành vẽ đồ thị trực tuyến:** Mở liên kết Desmos Calculator đi kèm để khảo sát hàm số bậc 3, bậc 4 trùng phương và phân thức hữu tỉ.",
+      "fav": true
+    },
+    {
+      "id": 8,
+      "t": "Nguyên hàm – Tích phân & Ứng dụng hình học",
+      "sub": "Toán",
+      "type": "Ghi chú",
+      "d": "Bảng công thức nguyên hàm cơ bản, phương pháp đổi biến, từng phần và tính diện tích, thể tích khối tròn xoay.",
+      "url": "https://vi.wikipedia.org/wiki/T%C3%ADch_ph%C3%A2n",
+      "fileType": "text",
+      "fileContent": "# NGUYÊN HÀM – TÍCH PHÂN & ỨNG DỤNG\n\n## 1. Công thức nguyên hàm cần nhớ\n- ∫ xⁿ dx = xⁿ⁺¹/(n+1) + C  (n ≠ -1)\n- ∫ (1/x) dx = ln|x| + C\n- ∫ eˣ dx = eˣ + C  |  ∫ aˣ dx = aˣ/ln a + C\n- ∫ cos x dx = sin x + C  |  ∫ sin x dx = -cos x + C\n- ∫ (1/cos²x) dx = tan x + C  |  ∫ (1/sin²x) dx = -cot x + C\n\n## 2. Hai phương pháp tính tích phân cốt lõi\n1. **Đổi biến số:** Đặt u = u(x) ⇒ du = u'(x)dx (nhớ đổi cận x = a → u(a), x = b → u(b)).\n2. **Tích phân từng phần:** ∫ u dv = [u·v]ₐᵇ - ∫ v du.\n   - Thứ tự ưu tiên đặt u: **Nhất lô (log) – Nhì đa (đa thức) – Tam lượng (lượng giác) – Tứ mũ (eˣ, aˣ)**.\n\n## 3. Ứng dụng hình học\n- Diện tích hình phẳng giới hạn bởi y = f(x), y = g(x), x = a, x = b:\n  👉 **S = ∫ₐᵇ |f(x) - g(x)| dx**\n- Thể tích khối tròn xoay khi quay quanh trục Ox:\n  👉 **V = π · ∫ₐᵇ [f(x)]² dx**",
+      "fav": true
+    },
+    {
+      "id": 9,
+      "t": "Công thức Lượng giác toàn tập (Lớp 11)",
+      "sub": "Toán",
+      "type": "Ghi chú",
+      "d": "Hệ thức cơ bản, cung liên kết, công thức cộng, nhân đôi, hạ bậc, biến đổi tổng thành tích và nghiệm phương trình.",
+      "url": "https://vi.wikipedia.org/wiki/L%C6%B0%E1%BB%A3ng_gi%C3%A1c",
+      "fileType": "text",
+      "fileContent": "# CÔNG THỨC LƯỢNG GIÁC TOÀN TẬP\n\n## 1. Hệ thức cơ bản & Cung liên kết\n- sin²α + cos²α = 1  |  1 + tan²α = 1/cos²α  |  1 + cot²α = 1/sin²α\n- Ghi nhớ cung liên kết: **Cos đối – Sin bù – Phụ chéo – Hơn kém π tan, cot**.\n\n## 2. Công thức cộng & Nhân đôi\n- sin(a ± b) = sin a·cos b ± cos a·sin b\n- cos(a ± b) = cos a·cos b ∓ sin a·sin b\n- sin 2a = 2 sin a·cos a\n- cos 2a = cos²a - sin²a = 2cos²a - 1 = 1 - 2sin²a\n\n## 3. Công thức hạ bậc & Biến đổi\n- cos²a = (1 + cos 2a)/2  |  sin²a = (1 - cos 2a)/2\n- cos a + cos b = 2 cos((a+b)/2) cos((a-b)/2)\n- cos a - cos b = -2 sin((a+b)/2) sin((a-b)/2)\n- sin a + sin b = 2 sin((a+b)/2) cos((a-b)/2)\n- sin a - sin b = 2 cos((a+b)/2) sin((a-b)/2)",
+      "fav": false
+    },
+    {
+      "id": 10,
+      "t": "Hình học không gian & Tọa độ Oxyz + GeoGebra 3D",
+      "sub": "Toán",
+      "type": "Tài liệu",
+      "d": "Vector, tích có hướng, phương trình mặt phẳng, đường thẳng, mặt cầu và thực hành trực quan trên GeoGebra 3D.",
+      "url": "https://www.geogebra.org/3d",
+      "fileType": "text",
+      "fileContent": "# HÌNH HỌC KHÔNG GIAN & TỌA ĐỘ OXYZ\n\n## 1. Tích vô hướng & Tích có hướng\n- Cho u = (x₁; y₁; z₁) và v = (x₂; y₂; z₂):\n  - Tích vô hướng: **u · v = x₁x₂ + y₁y₂ + z₁z₂** (u ⊥ v ⇔ u · v = 0)\n  - Tích có hướng: **[u, v] = (y₁z₂ - y₂z₁ ; z₁x₂ - z₂x₁ ; x₁y₂ - x₂y₁)**\n  - Diện tích tam giác ABC: S = ½ |[AB, AC]|\n  - Thể tích tứ diện ABCD: V = ⅙ |[AB, AC] · AD|\n\n## 2. Mặt phẳng, Đường thẳng & Mặt cầu\n- **Mặt phẳng (P):** Ax + By + Cz + D = 0 có VTPT n = (A; B; C).\n- **Khoảng cách từ M(x₀; y₀; z₀) đến (P):** d(M, (P)) = |Ax₀ + By₀ + Cz₀ + D| / √(A² + B² + C²).\n- **Mặt cầu (S):** (x - a)² + (y - b)² + (z - c)² = R² tâm I(a; b; c), bán kính R.\n\n🔗 **Công cụ 3D tương tác:** Mở GeoGebra 3D từ liên kết đính kèm để dựng hình chóp, lăng trụ và mặt cầu Oxyz.",
+      "fav": true
+    },
+    {
+      "id": 11,
+      "t": "Hàm số Mũ – Lôgarit & Bài toán Lãi suất thực tế",
+      "sub": "Toán",
+      "type": "Mẫu bài",
+      "d": "Quy tắc lũy thừa, công thức đổi cơ số lôgarit, bất phương trình mũ/log và công thức lãi kép ngân hàng.",
+      "url": "https://www.khanacademy.org/math/algebra2",
+      "fileType": "text",
+      "fileContent": "# MŨ – LÔGARIT & BÀI TOÁN LÃI SUẤT\n\n## 1. Công thức Lôgarit (a > 0, a ≠ 1; b, c > 0)\n- logₐ(b·c) = logₐ b + logₐ c\n- logₐ(b/c) = logₐ b - logₐ c\n- logₐ(bⁿ) = n·logₐ b  |  log_(aⁿ) b = (1/n)·logₐ b\n- Công thức đổi cơ số: **logₐ b = log_c b / log_c a = 1 / log_b a**\n\n## 2. Giải phương trình & bất phương trình cơ bản\n- a^(f(x)) > a^(g(x)):\n  - Nếu a > 1 ⇔ f(x) > g(x) (cùng chiều)\n  - Nếu 0 < a < 1 ⇔ f(x) < g(x) (đổi chiều)\n\n## 3. Công thức tăng trưởng & Lãi kép\n- Gửi tiết kiệm số tiền ban đầu A, lãi suất r%/kỳ, sau n kỳ:\n  👉 **Tₙ = A · (1 + r)ⁿ**\n- Gửi đều đặn mỗi tháng số tiền A (đầu kỳ):\n  👉 **Tₙ = [A(1 + r)/r] · [(1 + r)ⁿ - 1]**",
+      "fav": false
+    },
+    {
+      "id": 12,
+      "t": "Tổ hợp – Xác suất & Quy tắc đếm nâng cao",
+      "sub": "Toán",
+      "type": "Đề thi",
+      "d": "Hoán vị, chỉnh hợp, tổ hợp, khai triển Nhị thức Newton và công thức tính xác suất biến cố.",
+      "url": "https://www.wolframalpha.com/examples/mathematics/probability",
+      "fileType": "text",
+      "fileContent": "# TỔ HỢP – XÁC SUẤT & NHỊ THỨC NEWTON\n\n## 1. Hoán vị – Chỉnh hợp – Tổ hợp\n- Hoán vị n phần tử: **Pₙ = n!**\n- Chỉnh hợp chập k của n (có thứ tự): **Aₙᵏ = n! / (n - k)!**\n- Tổ hợp chập k của n (không thứ tự): **Cₙᵏ = n! / [k!(n - k)!]**\n\n## 2. Nhị thức Newton\n- (a + b)ⁿ = Σ (k=0..n) Cₙᵏ · aⁿ⁻ᵏ · bᵏ\n- Hệ quả hay dùng: Cₙ⁰ + Cₙ¹ + ... + Cₙⁿ = 2ⁿ\n\n## 3. Xác suất cổ điển & Quy tắc tính\n- Xác suất biến cố A: **P(A) = n(A) / n(Ω)**\n- Biến cố đối: **P(Ā) = 1 - P(A)**\n- Quy tắc cộng (xung khắc): P(A ∪ B) = P(A) + P(B)\n- Quy tắc nhân (độc lập): P(A ∩ B) = P(A) · P(B)",
+      "fav": false
+    }
+  ],
+  "joinRequests": [
+    {
+      "id": "req_1794922525524",
+      "classId": "class_4",
+      "className": "Toán 12A4",
+      "studentName": "Trần Văn Tiến",
+      "studentClass": "12A1",
+      "status": "approved",
+      "requestedAt": "2026-11-17T13:35:25.524Z"
+    }
+  ]
+}

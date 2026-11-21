@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: tripleT
+    runtime: node
+    plan: free
+    region: singapore
+    buildCommand: npm install --legacy-peer-deps && npm run build
+    startCommand: npm start
+    autoDeploy: true
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
